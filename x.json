@@ -1,0 +1,17 @@
+{
+"lives":[{"name":"live","url":"./live.txt"}],
+"sites":[
+{"key":"A1","name":"A1","type":1,"api":"https://cj.ffzyapi.com/api.php/provide/vod/"},
+{"key":"A2","name":"A2","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/"},
+{"key":"A3","name":"A3","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/"},
+
+{"key":"X1","name":"X1","type":1,"api":"https://naixxzy.com/api.php/provide/vod/","style":{"type":"rect","ratio":1.33}},
+{"key":"X2","name":"X2","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","style":{"type":"rect","ratio":1.33}},
+{"key":"Y1","name":"Y1","type":1,"api":"https://vnzyz.com/api.php/provide/vod/","style":{"type":"rect","ratio":1.33}},
+{"key":"Y2","name":"Y2","type":0,"api":"https://www.kxgav.com/api/xml.php","style":{"type":"rect","ratio":1.33}},
+{"key":"Y3","name":"Y3","type":0,"api":"https://www.gdlsp.com/api/xml.php","style":{"type":"rect","ratio":1.33}},
+{"key":"Y4","name":"Y4","type":0,"api":"https://www.xrbsp.com/api/xml.php","style":{"type":"rect","ratio":1.33}},
+{"key":"Y5","name":"Y5","type":0,"api":"https://www.msnii.com/api/xml.php","style":{"type":"rect","ratio":1.33}},
+{"key":"Y6","name":"Y6","type":0,"api":"https://www.pgxdy.com/api/xml.php","style":{"type":"rect","ratio":1.33}}
+]
+}
